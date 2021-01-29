@@ -1,10 +1,10 @@
 ## Part 3 Answers
-**Debugging**
+**Debugging**\
 Question 1. The bug was that the calculateSum function was adding 2 numbers in string form, which concatenates them instead of performing arithmetic on them.
 
 Question 2. I fixed it by casting num1 and num2 to integers before adding them.
 
-**Network**
+**Network**\
 Question 1. The name of the file is citylots.json.
 
 Question 2. part2.js initiated the download.
