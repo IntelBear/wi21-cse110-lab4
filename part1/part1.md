@@ -1,4 +1,4 @@
-## Part 1 Answers
+# Part 1 Answers
 Question 1. On line 11 the final value of i is printed, because using var to declare i keeps it in scope after the loop.
 
 Question 2. On line 12 the last discounted price of the list prices is printed.
@@ -20,7 +20,7 @@ Question 9. Ignoring the attempt to reassign a const in the for loop that raises
 Question 10. Ignoring the attempt to reassign a const in the for loop that raises an error, on line 12 the first discounted price we calculated in the for loop will be printed because once you assign a vlue to a const it can't be changed.
 
 Question 11. Ignoring the attempt to reassign a const in the for loop that raises an error, on line 3 the first value we assigned to finalPrice, which is 0, will be printed because once you assign a vlue to a const it can't be changed.
-    
+
 Question 12. Running the function would fail because you can't reassign a const value, but assuming the lines that raise error were taken out, [0, 0, 0] would be returned because finalPrices constant value would be pushed 3 times.
 
 Question 13a. student.name
@@ -41,7 +41,7 @@ Question 14h. NaN, subtracting undefined from a string is undefined behavior.
 Question 15a. true, string is treated as an integer
 Question 15b. false, comparison goes from left to right because they are both strings, first bigger character wins
 Question 15c. true, string is treated as an integer
-Question 15d. false, === checks for matching type and value, '2' and 2 are not the same type 
+Question 15d. false, === checks for matching type and value, '2' and 2 are not the same type
 Question 15e. false, true is treated as 1
 Question 15f. true, Boolean(2) converts into true, and true and true both have same type and value.
 

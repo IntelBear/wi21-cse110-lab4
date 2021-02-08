@@ -1,2 +1,2 @@
-Name: Bryant Shao
+# Name: Bryant Shao
 Email: Bwshao@ucsd.edu

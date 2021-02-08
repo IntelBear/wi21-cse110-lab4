@@ -1,4 +1,4 @@
-## Part 3 Answers
+# Part 3 Answers
 **Debugging**\
 Question 1. The bug was that the calculateSum function was adding 2 numbers in string form, which concatenates them instead of performing arithmetic on them.
 
